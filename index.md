@@ -16,7 +16,10 @@ del servidor web NGINX, estáis todos invidatos.
 - [Implantación de aplicaciones web](iaw/)
 - [Administración de sistemas operativos](aso/)
 
-### Contacto
+### Soporte
 
 Si tienes algún problema al visualizar el contenido, no dudes en ponerte en contacto y lo revisaré lo antes posible.
 
+### About
+
+Si quieres conocer un poco mas de [mi](about).
