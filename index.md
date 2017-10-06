@@ -20,13 +20,3 @@ del servidor web NGINX, estáis todos invidatos.
 
 Si tienes algún problema al visualizar el contenido, no dudes en ponerte en contacto y lo revisaré lo antes posible.
 
-```eval_rst
-.. toctree::
-   :maxdepth: 2
-
-   introduccion/index
-   dhcp/index
-   web/index
-   practicas/index
-
-```
