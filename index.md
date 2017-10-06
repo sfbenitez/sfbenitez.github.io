@@ -1,3 +1,10 @@
+---
+layout: default
+
+title: GitHub de Sergio Ferrete
+tagline: sfbenitez.github.io
+---
+
 ## Bienvenidos a mi repositorio de GitHub
 
 En esta web voy a publicar todas las prácticas que me parezcan interesantes, desde instalación de aplicaciones web hasta una configuración avanzada
