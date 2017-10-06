@@ -14,3 +14,7 @@ administración de sistemas informáticos en red.
 
 Mi principal afición son los videojuegos, mas concretamente los MMORPG. También me gusta salir de paseo con la bicicleta, es un hobby que he descubierto hace relativamente poco
 tiempo y la verdad esque me encanta.
+
+### GitHub
+
+Tras una temporada buscando trabajo, antes de entrar en el ciclo, ya me estaba dando cuenta de que el uso de Git es prácticamente esencial hoy en día. Por ello realicé un curso para aprender Git en [Code School](https://www.codeschool.com)
