@@ -38,7 +38,16 @@
         </section>
 
         <aside id="sidebar">
-          {% if site.github.is_project_page %}
+	  {% for m in site.data.menu %}
+            <h3>{{m.nombre}}</h3>
+            <ul class="inner clearfix">
+	      {% for me in m.items %}
+             	<li><a title="" href="{{me.url}}" rel="external">{{me.name}}</a></li>
+	      {% endfor %}	
+	     </ul>
+	   {% endfor %}
+          
+	  {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
           {% endif %}
         </aside>
