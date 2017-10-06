@@ -10,11 +10,11 @@ tagline: sfbenitez.github.io
 En esta web voy a publicar todas las prácticas que me parezcan interesantes, desde instalación de aplicaciones web hasta una configuración avanzada
 del servidor web NGINX, estáis todos invidatos.
 
-### Prácticas divididas por asignaturas
+### Prácticas divididas por asignaturas (Trabajando en ello)
 
-- [Servicios de red e internet](srv/)
-- [Implantación de aplicaciones web](iaw/)
-- [Administración de sistemas operativos](aso/)
+- [Servicios de red e internet](index)
+- [Implantación de aplicaciones web](index)
+- [Administración de sistemas operativos](index)
 
 ### Soporte
 
